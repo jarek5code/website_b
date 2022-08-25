@@ -1,3 +1,3 @@
 # website_b
 
-Webiste for company creating websites
+Responsive webiste for company creating websites
